@@ -1,2 +1,7 @@
-# First-work
-hellow world
+#include<stdlib.h>
+#include<stdio.h>
+ int main(){
+	printf("Hellow World!");
+	system("pause");
+	return 0;
+ }
